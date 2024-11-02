@@ -19,7 +19,7 @@
     text-decoration: none;
 }
 
-.link:hover{
+/* .link:hover{
 
     background-color: brown;
     font-size: larger;
@@ -31,4 +31,11 @@
     
     color: aqua;
     background-color: black;
+} */
+
+
+::selection{
+
+    color: red;
+    background-color: blueviolet;
 }
